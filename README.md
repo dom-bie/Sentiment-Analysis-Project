@@ -4,5 +4,5 @@ This program can be used as a Natural Language Processing tool. It allows you to
 
 
 Repositories used:
-[Negative words](https://github.com/shekhargulati/sentiment-analysis-python/blob/master/opinion-lexicon-English/negative-words.txt)
-[Positive words](https://github.com/shekhargulati/sentiment-analysis-python/blob/master/opinion-lexicon-English/positive-words.txt)
+- [Negative words](https://github.com/shekhargulati/sentiment-analysis-python/blob/master/opinion-lexicon-English/negative-words.txt)
+- [Positive words](https://github.com/shekhargulati/sentiment-analysis-python/blob/master/opinion-lexicon-English/positive-words.txt)
